@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jango</string>
+    <string name="slacking_off_text">just slacking off (might load when bothered)</string>
+    <string name="loading">loading</string>
+    <string name="udlr">up down left right...</string>
+</resources>
